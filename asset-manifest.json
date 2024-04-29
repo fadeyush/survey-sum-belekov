@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fadeyush.github.io/survey-sum-belekov/static/css/main.b7eacb64.css",
+    "main.js": "/fadeyush.github.io/survey-sum-belekov/static/js/main.b4e6c6c8.js",
+    "static/media/16.09_guu-scaled.jpg": "/fadeyush.github.io/survey-sum-belekov/static/media/16.09_guu-scaled.972724fcf9d52eacb25c.jpg",
+    "static/media/iupsibk.png": "/fadeyush.github.io/survey-sum-belekov/static/media/iupsibk.50381d758c8225ee082b.png",
+    "static/media/iis.jpg": "/fadeyush.github.io/survey-sum-belekov/static/media/iis.6367b809aa266658117f.jpg",
+    "index.html": "/fadeyush.github.io/survey-sum-belekov/index.html",
+    "main.b7eacb64.css.map": "/fadeyush.github.io/survey-sum-belekov/static/css/main.b7eacb64.css.map",
+    "main.b4e6c6c8.js.map": "/fadeyush.github.io/survey-sum-belekov/static/js/main.b4e6c6c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7eacb64.css",
+    "static/js/main.b4e6c6c8.js"
+  ]
+}
