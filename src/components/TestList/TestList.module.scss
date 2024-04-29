@@ -1,0 +1,54 @@
+.testForm {
+    margin: 0 5%;
+    padding: 30px 0 50px;        
+}
+
+.testForm__submit {
+    width: 210px;
+    height: 51px;
+}
+
+.testForm__error {
+    width: 700px;
+    font-size: 30px;
+    height: 120px;
+
+    color: #404040;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media (max-width: 675px) {
+    .testForm {
+        margin: 0 5%;
+        padding: 30px 0 30px;        
+    }    
+    .testForm__error {
+        font-size: 25px;
+    }
+
+    .testForm__submit {
+        width: 195px;
+        height: 35px;
+        font-size: 18px !important;
+    }
+}
+
+@media (max-width: 385px) {  
+    .testForm__error {
+        font-size: 21px;
+    }
+
+    .testForm__submit {
+        width: 180px;
+        font-size: 16px !important;
+    }
+}
+
+@media (max-width: 340px) {
+    .testForm__error {
+        font-size: 18px;
+    }
+}
