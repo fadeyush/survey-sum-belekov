@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/survey-sum-belekov/static/css/main.469f8caf.css",
-    "main.js": "/survey-sum-belekov/static/js/main.d95cbc81.js",
+    "main.js": "/survey-sum-belekov/static/js/main.a21b77ab.js",
     "static/media/16.09_guu-scaled.jpg": "/survey-sum-belekov/static/media/16.09_guu-scaled.972724fcf9d52eacb25c.jpg",
     "static/media/iupsibk.png": "/survey-sum-belekov/static/media/iupsibk.50381d758c8225ee082b.png",
     "static/media/iis.jpg": "/survey-sum-belekov/static/media/iis.6367b809aa266658117f.jpg",
     "index.html": "/survey-sum-belekov/index.html",
     "main.469f8caf.css.map": "/survey-sum-belekov/static/css/main.469f8caf.css.map",
-    "main.d95cbc81.js.map": "/survey-sum-belekov/static/js/main.d95cbc81.js.map"
+    "main.a21b77ab.js.map": "/survey-sum-belekov/static/js/main.a21b77ab.js.map"
   },
   "entrypoints": [
     "static/css/main.469f8caf.css",
-    "static/js/main.d95cbc81.js"
+    "static/js/main.a21b77ab.js"
   ]
 }
