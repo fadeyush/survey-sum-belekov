@@ -6,6 +6,7 @@ import TestListItem from '../TestListItem/TestListItem';
 import MyButton from '../UI/button/MyButton';
 import MyModal from '../UI/modal/MyModal';
 import Result from '../Result/Result';
+import { sendTest } from '../../api/sendTest';
 
 const TestList: FC = () => {
     const testList: TestItemProps[] = getTestList();
@@ -23,6 +24,7 @@ const TestList: FC = () => {
         } else {
             setModalSuccess(true)
             console.log(JSON.stringify(res))
+            sendTest(res)
         }
     };
     
